@@ -108,16 +108,6 @@ The Excel dashboard includes:
 * Students should complement academic credentials with **skills development**.
 * Policy makers should address career progression gaps across disciplines.
 
-## 📁 Repository Structure
-
-├── dataset/
-│   └── education_career_success.xlsx
-├── dashboard/
-│   └── excel_dashboard.png
-├── documentation/
-│   └── technical_report.pdf
-└── README.md
-
 ## 🧑‍💼 Author
 
 **Emmanuel Gbogr**
