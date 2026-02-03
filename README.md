@@ -22,7 +22,7 @@ The analysis seeks to answer the following questions:
 
 ## 🗂 Dataset Description
 
-* **Records:** 401 individuals
+* **Records:** 400 individuals
 * **Variables:** 19
 * **Data Types:** Categorical and numerical
 * **Key Fields:**
