@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the relationship between **educational background, skills development, and career success outcomes** using a structured dataset of 401 individuals. The analysis focuses on how factors such as **field of study, certifications, soft skills, and demographics** influence **job level attainment** and **starting salaries**.
+This project analyzes the relationship between **educational background, skills development, and career success outcomes** using a structured dataset of 400 individuals. The analysis focuses on how factors such as **field of study, certifications, soft skills, and demographics** influence **job level attainment** and **starting salaries**.
 
 The project demonstrates end-to-end data analytics skills using **Microsoft Excel**, including data understanding, analysis, visualization, and insight generation.
 
