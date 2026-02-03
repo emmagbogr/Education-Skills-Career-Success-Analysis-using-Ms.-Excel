@@ -70,6 +70,8 @@ The Excel dashboard includes:
 * Stacked column chart for job levels by field of study
 * Pie chart for workforce distribution by job level
 * Bar chart for average starting salary by field of study
+  <img width="1654" height="670" alt="image" src="https://github.com/user-attachments/assets/1bd9298e-a4f4-4e1d-9706-1a3a48974e02" />
+
 
 ## 📈 Key Insights
 
